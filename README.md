@@ -1,16 +1,24 @@
+# Conversor de Kmh para anos Luz
+
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **Conversor de Kmh para anos Luz**
+| :label: Tecnologias | JavaScript, HTML, CSS
+| :rocket: URL         | https://km-em-anos-luz.vercel.app/
+| :fire: Desafio     | Imersão Dev Alura
+
 ## :star2: Sobre o projeto
 
-Conversor de Kmh para anos Luz desenvolvido para a prática do JavaScript.
-
-Link do deploy: https://km-em-anos-luz.vercel.app/
+Projeto desenvolvido para a prática de JavaScript aplicando os conceitos de alteração de elementos com o DOM, busca de elementos no HTML através do 
+"querySelector" e operações de calculo.
 
 ## :eyes: Funcionalidade
 
-Digite o valor em Kmh para que seja convertido em anos Luz.
+Digite o valor em Kmh para saber o equivalente em anos Luz.
 
 ### :camera: Imagens do projeto
 
-![image](https://user-images.githubusercontent.com/101264784/189906494-4a0787dc-bcb5-4f8c-88ff-c7e14e9bf93a.png)
+![image](https://user-images.githubusercontent.com/101264784/189906494-4a0787dc-bcb5-4f8c-88ff-c7e14e9bf93a.png#vitrinedev)
 
 
 ### :space_invader: Tecnologias
